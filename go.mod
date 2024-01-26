@@ -1,4 +1,4 @@
-module openconnect-gp-okta
+module github.com/pvl-mk/gp-clone
 
 go 1.20
 
